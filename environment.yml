@@ -32,7 +32,7 @@ dependencies:
   - selenium
   - beautifulsoup4
   - geckodriver
-  - chromedriver-binary=77.0.3865.40.0
+  - python-chromedriver-binary=77.0.3865.40.0
   - pip:
       - us
       - tweepy
